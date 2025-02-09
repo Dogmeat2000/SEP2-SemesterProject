@@ -14,7 +14,7 @@ Features include:
 https://github.com/user-attachments/assets/eb769530-56d5-470f-aee3-f6e3f48eb2f7
 
 ## Installation and Usage:
-Please follow the instructions presented in the [Reference Manual](Development%20Files/E.2%20-%20Reference%20Manual,%20Bobs%20Project%20Management%20System.pdf)
+Please follow the instructions presented in the [Installation Manual](Development_Files/Bilag%20-%20Installationsguide.pdf)
 
 ## UML Use Case Diagram
 ![(UML Use Case Diagram)](Development%20Files/C.1.%20-%20Bobs%20Construction%20Company.svg)
