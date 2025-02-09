@@ -17,7 +17,7 @@ Features include:
 https://github.com/user-attachments/assets/eb769530-56d5-470f-aee3-f6e3f48eb2f7
 
 ## Installation and Usage:
-Please follow the instructions presented in the [Installation Manual](Development_Files/Bilag%20-%20U%20Installationsguide.pdf) and the [User Guide](Development_Files/Bilag%20R%20-%20User%20Guide.pdf)
+Please follow the instructions presented in the [Installation Manual](Development_Files/Bilag%20U%20-%20Installationsguide.pdf) and the [User Guide](Development_Files/Bilag%20R%20-%20User%20Guide.pdf)
 
 ## UML Use Case Diagram
 ![(UML Use Case Diagram)](Development_Files/Bilag%20D%20-%20Use%20Case%20Diagram.svg)
